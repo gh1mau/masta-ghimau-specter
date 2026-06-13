@@ -351,7 +351,7 @@ _The main popup interface showing the Masta Specter extension with its sleek dar
 
   
 
-![Scanning Progress](docs/images/scanning.jpg)
+![Scanning Progress](/images/scanning.jpg)
 
 _Real-time scanning progress with animated indicators showing the security analysis in action._
 
@@ -365,7 +365,7 @@ _Real-time scanning progress with animated indicators showing the security analy
 
   
 
-![Scan Results Overview](docs/images/result-1.jpg)
+![Scan Results Overview](/images/result-1.jpg)
 
 _Comprehensive scan results displaying detected CMS, risk grade, and summary statistics._
 
@@ -375,7 +375,7 @@ _Comprehensive scan results displaying detected CMS, risk grade, and summary sta
 
   
 
-![CVE Vulnerabilities](docs/images/result-2-cve.jpg)
+![CVE Vulnerabilities](/images/result-2-cve.jpg)
 
 _Detailed CVE vulnerability listing with severity levels and smart filtering applied._
 
@@ -385,7 +385,7 @@ _Detailed CVE vulnerability listing with severity levels and smart filtering app
 
   
 
-![Technology Stack](docs/images/result-3-tech-stack.jpg)
+![Technology Stack](/images/result-3-tech-stack.jpg)
 
 _Detected technology stack showing CMS version, server information, and installed components._
 
@@ -395,7 +395,7 @@ _Detected technology stack showing CMS version, server information, and installe
 
   
 
-![Security Exposures](docs/images/result-3-exposure.jpg)
+![Security Exposures](/images/result-3-exposure.jpg)
 
 _Discovered security exposures including backup files, sensitive paths, and admin panels._
 
@@ -409,19 +409,11 @@ _Discovered security exposures including backup files, sensitive paths, and admi
 
   
 
-![Options Page 1](docs/images/options-1.jpg)
+![Options Page 1](/images/options-1.jpg)
+
+![Options Page 1](/images/options-2.jpg)
 
 _Extension options page showing general settings and configuration options._
-
-  
-
-#### Options Page - Advanced Settings
-
-  
-
-![Options Page 2](docs/images/options-2.jpg)
-
-_Advanced settings including API configurations and scan preferences._
 
   
 
@@ -433,13 +425,13 @@ _Advanced settings including API configurations and scan preferences._
 
   
 
-![Generate Report](docs/images/generate-report.jpg)
+![Generate Report](/images/generate-report.jpg)
 
-_Report generation interface with multiple export format options (PDF, HTML, JSON, CSV)._
+_Report generation interface with multiple export format options (HTML, JSON, CSV)._
 
   
 
-#### PDF Report - Summary
+#### HTML Report - Summary
 
   
 
@@ -453,7 +445,7 @@ _Generated PDF report showing executive summary with risk assessment and key fin
 
   
 
-![PDF Report 2](docs/images/report-2.jpg)
+![PDF Report 2](/images/report-2.jpg)
 
 _Detailed vulnerability section in PDF report with CVE listings and remediation steps._
 
@@ -463,7 +455,7 @@ _Detailed vulnerability section in PDF report with CVE listings and remediation 
 
   
 
-![PDF Report 3](docs/images/report-3.jpg)
+![PDF Report 3](/images/report-3.jpg)
 
 _Technical details section showing detected technologies and version information._
 
@@ -473,7 +465,7 @@ _Technical details section showing detected technologies and version information
 
   
 
-![PDF Report 4](docs/images/report-4.jpg)
+![PDF Report 4](/images/report-4.jpg)
 
 _Security exposures section documenting all discovered sensitive files and paths._
 
