@@ -435,51 +435,41 @@ _Report generation interface with multiple export format options (HTML, JSON, CS
 
   
 
-![PDF Report 1](docs/images/report-1.jpg)
+![HTML Report 1](/images/report-1.jpg)
 
 _Generated PDF report showing executive summary with risk assessment and key findings._
 
   
 
-#### PDF Report - Vulnerabilities
+#### HTML Report - Vulnerabilities
 
   
 
-![PDF Report 2](/images/report-2.jpg)
+![HTML Report 2](/images/report-2.jpg)
 
 _Detailed vulnerability section in PDF report with CVE listings and remediation steps._
 
   
 
-#### PDF Report - Technical Details
+#### HTML Report - Technical Details
 
   
 
-![PDF Report 3](/images/report-3.jpg)
+![HTML Report 3](/images/report-3.jpg)
 
 _Technical details section showing detected technologies and version information._
 
   
 
-#### PDF Report - Exposures
+#### HTML Report - Exposures
 
   
 
-![PDF Report 4](/images/report-4.jpg)
+![HTML Report 4](/images/report-4.jpg)
 
 _Security exposures section documenting all discovered sensitive files and paths._
 
   
-
-### Image Credits
-
-  
-
-_All screenshots captured from Masta Specter v1.0.0 by Hussein Mohamed (Masta Ghimau)_
-
-  
-
----
 
 
 
