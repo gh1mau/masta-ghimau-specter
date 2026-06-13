@@ -505,7 +505,7 @@ This tool is provided for educational and authorized security testing purposes o
 **Hussein Mohamed (masta ghimau)**
 
 - 🎥 **YouTube**: [youtube.com/@mastaghimau](https://www.youtube.com/@mastaghimau)
-- 💻 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
+- 💻 **GitHub**: [github.com/gh1mau](https://github.com/gh1mau)
 - 🐦 **Twitter**: [@mastaghimau](https://twitter.com/mastaghimau)
 
 ### About the Author
