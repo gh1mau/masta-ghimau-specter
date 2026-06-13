@@ -6,22 +6,8 @@
 
 > **Enterprise-grade security analyzer with CVE mapping for web applications**
 
-![MASTA GHIMAU SPECTERBanner](docs/images/banner.png)
 
-## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [CVE Database Update](#cve-database-update)
-- [Testing](#testing)
-- [Screenshots](#screenshots)
-- [Disclaimer](#disclaimer)
-- [Author](#author)
-
----
 
 ## 🎯 Overview
 
