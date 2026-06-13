@@ -333,7 +333,161 @@ NVD_API_KEY=your_api_key_here
 
 ## 📸 Screenshots
 
-> Place your screenshots in the `docs/images/` folder
+### Extension Interface
+
+  
+
+#### Main Popup
+
+  
+
+![Masta Specter Main Interface](/images/ghimau-specter.jpg)
+
+_The main popup interface showing the Masta Specter extension with its sleek dark theme design._
+
+  
+
+#### Scanning in Progress
+
+  
+
+![Scanning Progress](docs/images/scanning.jpg)
+
+_Real-time scanning progress with animated indicators showing the security analysis in action._
+
+  
+
+### Scan Results
+
+  
+
+#### Overview Results
+
+  
+
+![Scan Results Overview](docs/images/result-1.jpg)
+
+_Comprehensive scan results displaying detected CMS, risk grade, and summary statistics._
+
+  
+
+#### CVE Vulnerabilities
+
+  
+
+![CVE Vulnerabilities](docs/images/result-2-cve.jpg)
+
+_Detailed CVE vulnerability listing with severity levels and smart filtering applied._
+
+  
+
+#### Technology Stack Detection
+
+  
+
+![Technology Stack](docs/images/result-3-tech-stack.jpg)
+
+_Detected technology stack showing CMS version, server information, and installed components._
+
+  
+
+#### Exposures Found
+
+  
+
+![Security Exposures](docs/images/result-3-exposure.jpg)
+
+_Discovered security exposures including backup files, sensitive paths, and admin panels._
+
+  
+
+### Options & Settings
+
+  
+
+#### Options Page - General Settings
+
+  
+
+![Options Page 1](docs/images/options-1.jpg)
+
+_Extension options page showing general settings and configuration options._
+
+  
+
+#### Options Page - Advanced Settings
+
+  
+
+![Options Page 2](docs/images/options-2.jpg)
+
+_Advanced settings including API configurations and scan preferences._
+
+  
+
+### Reports & Export
+
+  
+
+#### Report Generation
+
+  
+
+![Generate Report](docs/images/generate-report.jpg)
+
+_Report generation interface with multiple export format options (PDF, HTML, JSON, CSV)._
+
+  
+
+#### PDF Report - Summary
+
+  
+
+![PDF Report 1](docs/images/report-1.jpg)
+
+_Generated PDF report showing executive summary with risk assessment and key findings._
+
+  
+
+#### PDF Report - Vulnerabilities
+
+  
+
+![PDF Report 2](docs/images/report-2.jpg)
+
+_Detailed vulnerability section in PDF report with CVE listings and remediation steps._
+
+  
+
+#### PDF Report - Technical Details
+
+  
+
+![PDF Report 3](docs/images/report-3.jpg)
+
+_Technical details section showing detected technologies and version information._
+
+  
+
+#### PDF Report - Exposures
+
+  
+
+![PDF Report 4](docs/images/report-4.jpg)
+
+_Security exposures section documenting all discovered sensitive files and paths._
+
+  
+
+### Image Credits
+
+  
+
+_All screenshots captured from Masta Specter v1.0.0 by Hussein Mohamed (Masta Ghimau)_
+
+  
+
+---
 
 
 
